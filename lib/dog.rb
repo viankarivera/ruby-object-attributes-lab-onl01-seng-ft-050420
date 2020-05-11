@@ -6,3 +6,5 @@ class Dog
     @dogs_name
   end
 end
+fido = Dog.new
+fido.dogs_name
