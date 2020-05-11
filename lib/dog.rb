@@ -6,6 +6,6 @@ class Dog
     @dogs_name
   end
   fido = Dog.new
-  fido.dogs_name = "Fido"
+  fido.dogs_name
 
 end
