@@ -5,7 +5,4 @@ class Dog
   def dogs_name
     @dogs_name
   end
-  fido = Dog.new
-  fido.dogs_name
-
 end
